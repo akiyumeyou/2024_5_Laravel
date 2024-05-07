@@ -1,0 +1,4 @@
+[2024-05-06 16:39:42] local.ERROR: Cannot use positional argument after named argument {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot use positional argument after named argument at /var/www/html/routes/web.php:5)
+[stacktrace]
+#0 {main}
+"} 
